@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0cc0013273e4d059b0599879c340b3c",
+    "_text_": "DEC 15",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 76,
+    "containerweight": 76,
+    "contentAlignment": 6,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyLabel0a6a629ddbf9f42",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "1aeccf37096d4735ad5cb79208030e8f",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "CopyHBox0a9e9b5546bb64f",
+    "pf": "frmSelectDeparture",
+    "render": true,
+    "skin": "s0cc0013273e4d059b0599879c340b3c",
+    "text": "DEC 15",
+    "toolTip": "",
+    "tooltip": "",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "wrapping": 2
+}

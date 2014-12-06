@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        8,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scfd067ece3e42159dcb0303c509a044",
+    "_text_": "Select Departure",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 80,
+    "containerweight": 80,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "Label03ccbaec538cb4a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "4cac9ee560564f34823c1df7f2a997f5",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        51.2,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        8,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "HBox06d11cd2af7444e",
+    "pf": "frmSelectDeparture",
+    "render": true,
+    "skin": "scfd067ece3e42159dcb0303c509a044",
+    "text": "Select Departure",
+    "toolTip": "",
+    "tooltip": "",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "wrapping": 2
+}

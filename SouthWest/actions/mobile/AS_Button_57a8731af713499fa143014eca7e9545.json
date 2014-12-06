@@ -1,0 +1,14 @@
+{
+	"AS_Button_57a8731af713499fa143014eca7e9545": {
+		"id": "AS_Button_57a8731af713499fa143014eca7e9545",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_56412fe56b33471691563a421cf7ca71",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmPassengers",
+				"formKUID": "37481a4300c54737b442361a81dbd057"
+			}
+		]
+	}
+}

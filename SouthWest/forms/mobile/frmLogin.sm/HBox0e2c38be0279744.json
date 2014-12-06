@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_percent_": false,
+    "_position_": 3,
+    "_skin_": "s27319a019ea478984fb5a84ed2cce5f",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Button0097a4fe9a83e41"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "HBox0e2c38be0279744",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "084bf0a9301a4ab6b46f705fce50a16a",
+    "layoutAlignment": 4,
+    "layoutType": 0,
+    "layoutalignment": 4,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "onClick": "AS_HBox_7768e50eca2b4ac6bd9c8c2dc0e9a340",
+    "onclick": "AS_HBox_7768e50eca2b4ac6bd9c8c2dc0e9a340",
+    "orientation": 1,
+    "padding": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "frmLogin",
+    "percent": false,
+    "pf": "frmLogin",
+    "position": 3,
+    "render": true,
+    "skin": "s27319a019ea478984fb5a84ed2cce5f",
+    "wType": "HBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

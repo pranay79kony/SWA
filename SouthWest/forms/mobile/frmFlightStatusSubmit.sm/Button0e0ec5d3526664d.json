@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s61d8bb172d244b5bb948d37c046a95b",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerWeight": 33,
+    "containerweight": 33,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "sf56a23c020f42238cbbadaa39109613",
+    "focusskin": "sf56a23c020f42238cbbadaa39109613",
+    "hExpand": false,
+    "hexpand": false,
+    "id": "Button0e0ec5d3526664d",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "ed89912f5d434e8f92f16418df03ac43",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "HBox07e41d925b0d147",
+    "pf": "frmFlightStatusSubmit",
+    "render": true,
+    "skin": "s61d8bb172d244b5bb948d37c046a95b",
+    "text": "",
+    "wType": "Button",
+    "widgetAlignment": 5
+}

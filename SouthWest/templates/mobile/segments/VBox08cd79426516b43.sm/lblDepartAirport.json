@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s52e0e83b2424bc29e5daa80825ca655",
+    "_text_": "Label",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerWeight": 50,
+    "containerweight": 50,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "lblDepartAirport",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isSegmentChild": true,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "da4665ee780d4951863ae827e6884619",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        18.03,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "HBox09effa69463b74c",
+    "pf": "VBox08cd79426516b43",
+    "render": true,
+    "skin": "s52e0e83b2424bc29e5daa80825ca655",
+    "text": "Label",
+    "toolTip": "",
+    "tooltip": "",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "wrapping": 2
+}

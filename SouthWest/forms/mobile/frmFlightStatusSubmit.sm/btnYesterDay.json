@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s434f8de67ef410f9e37665db0e62a29",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerWeight": 34,
+    "containerweight": 34,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "s34db7528a0642a2a6527ae3d97b22de",
+    "focusskin": "s34db7528a0642a2a6527ae3d97b22de",
+    "hExpand": false,
+    "hexpand": false,
+    "id": "btnYesterDay",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "0425e6b09d6c482688967cadbe547826",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "HBox07e41d925b0d147",
+    "pf": "frmFlightStatusSubmit",
+    "render": true,
+    "skin": "s434f8de67ef410f9e37665db0e62a29",
+    "text": "",
+    "wType": "Button",
+    "widgetAlignment": 5
+}

@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s349f4a6eb454a28a0d02af0ef373d3b",
+    "_src_": "imagedrag.png",
+    "base64": null,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerWeight": 11,
+    "containerweight": 11,
+    "context": {
+        "channel": "mobile",
+        "formID": "VBox0d49e2a2a686d4f",
+        "ispercent": true,
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "Image08e4dfb121dab41",
+    "imageScaleMode": 1,
+    "imagescalemode": 1,
+    "info": null,
+    "isSegmentChild": true,
+    "isVisible": true,
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "496a76f725b64a84a1fbed56408b8658",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Image2",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "CopyHBox0b1284f3f4cd640",
+    "pf": "VBox03a19032a8ba749",
+    "render": true,
+    "skin": "s349f4a6eb454a28a0d02af0ef373d3b",
+    "src": "imagedrag.png",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetAlignment": 5,
+    "widgetalignment": 5
+}

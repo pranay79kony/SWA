@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "sb5211ca141a4b0ba9d721c0f347b639",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "VBox09c9137354ac741"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "HBox04869814b112643",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "1afbf92cfafa4456827a05a799cdcfac",
+    "layoutAlignment": 3,
+    "layoutType": 0,
+    "layoutalignment": 3,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "orientation": 1,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "frmDetails",
+    "percent": true,
+    "pf": "frmDetails",
+    "position": 3,
+    "render": true,
+    "skin": "sb5211ca141a4b0ba9d721c0f347b639",
+    "vExpand": true,
+    "vexpand": true,
+    "wType": "HBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

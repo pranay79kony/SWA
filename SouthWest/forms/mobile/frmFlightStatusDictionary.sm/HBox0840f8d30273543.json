@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "sb3c9934be794ad69c92fac510505022",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "VBox0dae79b4e7c644b"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "HBox0840f8d30273543",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "1226d9a0224d4472807c8e876a93f0f0",
+    "layoutType": 0,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "orientation": 1,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "frmFlightStatusDictionary",
+    "percent": true,
+    "pf": "frmFlightStatusDictionary",
+    "position": 3,
+    "render": true,
+    "skin": "sb3c9934be794ad69c92fac510505022",
+    "wType": "HBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

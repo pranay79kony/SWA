@@ -1,0 +1,167 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bounces_": true,
+    "_data_": [
+        {
+            "lblDepartAirport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblFlightName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_margin_": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_rowTemplateId": "VBox08cd79426516b43",
+    "bounces": true,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmFlightStatusDictionary",
+        "ispercent": false,
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 1,
+    "data": [
+        {
+            "lblDepartAirport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblFlightName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "disabledSkins": {},
+    "enableDictionary": true,
+    "enabled": false,
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedTemplate": "VBox08cd79426516b43",
+    "generatedtemplate": "a1c86fef77834efbbc4d4436811cda52",
+    "groupCells": false,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegFlightStatusDictionary",
+    "indicator": "none",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": true,
+            "enableDictionary": true,
+            "indicator": "none",
+            "showProgressIndicator": true
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "f0e4ba9909dd4d71bbaa4acafd018b2f",
+    "margin": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needPageIndicator": true,
+    "needpageindicator": true,
+    "orientation": 2,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pageOffDotImage": "pageOffDot.png",
+    "pageOnDotImage": "pageOnDot.png",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "VBox0dae79b4e7c644b",
+    "pf": "frmFlightStatusDictionary",
+    "render": true,
+    "retainSelection": false,
+    "retainselection": false,
+    "rowFocusSkin": "sc2a70aa76c74f4faeb732a815a6e7e5",
+    "rowSkin": "s79f14eafddf4460b31476c86126d018",
+    "rowTemplateId": "a1c86fef77834efbbc4d4436811cda52",
+    "rowcounter": 0,
+    "rowfocusskin": "sc2a70aa76c74f4faeb732a815a6e7e5",
+    "rowskin": "s79f14eafddf4460b31476c86126d018",
+    "rowtemplate": "VBox08cd79426516b43",
+    "screenLevelWidget": false,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderSkin": "sc1e6959c8cb4bb68818a7cee8bfa486",
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "sc1e6959c8cb4bb68818a7cee8bfa486",
+    "selectedIndex": null,
+    "selectedIndices": null,
+    "selectedItems": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionBehavior": "default",
+    "selectionbehavior": "default",
+    "separatorColor": "ccc7c700",
+    "separatorRequired": true,
+    "separatorThickness": 1,
+    "separatorcolor": "ccc7c700",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showProgressIndicator": true,
+    "showScrollbars": true,
+    "showprogressindicator": true,
+    "showscrollbars": true,
+    "viewType": "tableview",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetAlignment": 5,
+    "widgetDataMap": {
+        "HBox09effa69463b74c": "HBox09effa69463b74c",
+        "lblDepartAirport": "lblDepartAirport",
+        "lblFlightName": "lblFlightName"
+    },
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "HBox09effa69463b74c": "HBox09effa69463b74c",
+        "lblDepartAirport": "lblDepartAirport",
+        "lblFlightName": "lblFlightName"
+    }
+}

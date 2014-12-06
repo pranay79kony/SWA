@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        4,
+        4,
+        4,
+        4
+    ],
+    "_skin_": "sb0cd719d9964f0ab1bb048e5d9c6354",
+    "_text_": "Flight Status ",
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "sd7efb5a1e634dd0b34998c573f9af47",
+    "focusskin": "sd7efb5a1e634dd0b34998c573f9af47",
+    "id": "Button029c5325e316340",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "8e4096d8580e4e56ac70faa662a898ee",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_bfecc5abb595494bab63cac5f04640a0",
+    "onclick": "AS_Button_bfecc5abb595494bab63cac5f04640a0",
+    "padding": [
+        4,
+        4,
+        4,
+        4
+    ],
+    "parent": "frmDummy",
+    "pf": "frmDummy",
+    "render": true,
+    "skin": "sb0cd719d9964f0ab1bb048e5d9c6354",
+    "text": "Flight Status ",
+    "wType": "Button",
+    "widgetAlignment": 5
+}

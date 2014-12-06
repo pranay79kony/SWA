@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        2,
+        0,
+        2
+    ],
+    "_percent_": false,
+    "_position_": 3,
+    "_skin_": "sb2eba06ad7e40c0876e434407110449",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblFlightName",
+        "lblDepartAirport"
+    ],
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "HBox09effa69463b74c",
+    "info": null,
+    "isSegmentChild": true,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "5588f626c622417598fb1874b411031a",
+    "layoutAlignment": 3,
+    "layoutType": 0,
+    "layoutalignment": 3,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "orientation": 1,
+    "padding": [
+        0,
+        2,
+        0,
+        2
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "VBox08cd79426516b43",
+    "percent": false,
+    "pf": "VBox08cd79426516b43",
+    "position": 3,
+    "render": true,
+    "skin": "sb2eba06ad7e40c0876e434407110449",
+    "wType": "HBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

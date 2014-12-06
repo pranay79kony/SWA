@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        5,
+        0,
+        7
+    ],
+    "_percent_": false,
+    "_position_": 3,
+    "_skin_": "s096cac4c0ee4b6f921822d0a81a8ac8",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "btnYesterDay",
+        "btnToday",
+        "Button0e0ec5d3526664d"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "HBox07e41d925b0d147",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "ebe6138f5e104fc7830f56c3363c8c46",
+    "layoutAlignment": 4,
+    "layoutType": 0,
+    "layoutalignment": 4,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "orientation": 1,
+    "padding": [
+        0,
+        5,
+        0,
+        7
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "frmFlightStatusSubmit",
+    "percent": false,
+    "pf": "frmFlightStatusSubmit",
+    "position": 3,
+    "render": true,
+    "skin": "s096cac4c0ee4b6f921822d0a81a8ac8",
+    "wType": "HBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

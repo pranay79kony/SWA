@@ -1,0 +1,173 @@
+{
+    "APPLICATION_THEME": "default",
+    "accountCloudGuid": "944ad2ba-2fd3-42bc-a25a-88723d35827e",
+    "appaddrkey": "",
+    "appidkey": "SouthWest",
+    "applogokey": "",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "d98e8f758e16402b94133fd512e546d0",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "7391f8fc556144ceac04d697e6efc30b",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "96139b5da3cf4f66af4e523d4d19f7e7",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "a6a5bf4fecce4f5492526612ce37848a",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "ffb6d8b089f24aa3b3139dccf4c995bc",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "b192c823e77645c5934696afdd44c7ff",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "090f3c45781d4a4ba7f2d7a1320bb636",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "2ae396063110464d83ae678eda8b65f0",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "a99de88998034cb295cafe594270f85f",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "19789985220b4f75bfafb0d2a45d6000",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "b84ec309ff2840aeb65f5d8384bdf7f6",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "f9741ebe36164f7480391927accbacd0",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "appnamekey": "SouthWest",
+    "apppackagekey": "",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "createdgaversion": "6.0.0",
+    "currentgaversion": "6.0.0",
+    "defaulttheme": "defaultTheme",
+    "desktopwebaligenmentoption": "Left",
+    "desktopwebbasefontsize": "16",
+    "desktopwebwidthoption": "percentage",
+    "ipadlandscapemodekey": "portrait",
+    "iphonewebshrtcutkey": "",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "konyVizVersion": "2.0",
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "project.type": "js",
+    "projectCloudGuid": "88840b12-1538-4dfa-a1d8-11f63b40cb7b",
+    "project_version": "sprint20",
+    "prototype": {
+        "createdBy": "prakash gotukula",
+        "createdById": "613bcf93-54f5-4228-bbea-62ab80a2c679",
+        "createdOn": "2014-12-06T13:29:41.910Z",
+        "resourceId": "dc2342ad-0a46-43e6-ba75-d8df8f2c098f",
+        "shareGuid": "DDHPX"
+    },
+    "startupformkey": "frmLogin",
+    "supportedorientations": [
+        "portrait"
+    ],
+    "vendornamekey": "KonyLabs",
+    "wap_android240_fontsize": "10",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "13",
+    "wap_android400_fontsize": "14",
+    "wap_android440_fontsize": "15",
+    "wap_android480_fontsize": "16",
+    "wap_android640_fontsize": "19",
+    "wap_ip_fontsize": "12",
+    "wap_spaandroidtab_fontsize": "17",
+    "wap_spaandroidtabhdpi_fontsize": "16",
+    "wap_spaandroidtabldpi_fontsize": "17",
+    "wap_spaandroidtabmdpi_fontsize": "14",
+    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "wap_spaipad_fontsize": "17",
+    "wap_spawindowstab_fontsize": "17",
+    "wap_winphone320_fontsize": "12",
+    "wap_winphone480_fontsize": "12",
+    "winmobileguidkey": ""
+}

@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "sa05ddcb993749c2859118400b6710be",
+    "_text_": "Cancel",
+    "canUpdateUI": true,
+    "containerWeight": 25,
+    "containerweight": 25,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "sf3da1c70db94edca9423c5b8a4d76ee",
+    "focusskin": "sf3da1c70db94edca9423c5b8a4d76ee",
+    "hExpand": false,
+    "hexpand": false,
+    "id": "Button0361520038efd4a",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "842f6ebac4114ef5ba16b230d4989417",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "padding": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "HBox0e513bb1bd93a4b",
+    "pf": "frmFlightStatusDictionary",
+    "render": true,
+    "skin": "sa05ddcb993749c2859118400b6710be",
+    "text": "Cancel",
+    "wType": "Button",
+    "widgetAlignment": 5
+}

@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        14,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scfd067ece3e42159dcb0303c509a044",
+    "_text_": "Flight Status",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 78,
+    "containerweight": 78,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "Label03ccbaec538cb4a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "614759b00f9545a7ab316efcf90c0c5a",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        14,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "HBox06d11cd2af7444e",
+    "pf": "frmFlightStatusSubmit",
+    "render": true,
+    "skin": "scfd067ece3e42159dcb0303c509a044",
+    "text": "Flight Status",
+    "toolTip": "",
+    "tooltip": "",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "wrapping": 2
+}

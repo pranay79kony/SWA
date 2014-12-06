@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s110ccf5b8034bbd98e90e99a0e4f1a6",
+    "_text_": "Button",
+    "android": {},
+    "canUpdateUI": true,
+    "containerWeight": 23,
+    "containerWeightLocked": false,
+    "containerweight": 23,
+    "contentAlignment": 6,
+    "contentalignment": 6,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "s1a62b7345f148d090aa954e16dcb21c",
+    "focusskin": "s1a62b7345f148d090aa954e16dcb21c",
+    "hExpand": false,
+    "hexpand": false,
+    "id": "CopyButton00d73fe51514a42",
+    "info": null,
+    "iphone": {},
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "69d0bbe83f68417cbd146a2c33b7f516",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "CopyHBox0df6bc7e6f2624b",
+    "pf": "frmFlightInfo",
+    "render": true,
+    "skin": "s110ccf5b8034bbd98e90e99a0e4f1a6",
+    "spaan": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "text": "Button",
+    "wType": "Button",
+    "widgetAlignment": 6,
+    "widgetalignment": 6,
+    "winphone8": {
+        "render": false
+    }
+}

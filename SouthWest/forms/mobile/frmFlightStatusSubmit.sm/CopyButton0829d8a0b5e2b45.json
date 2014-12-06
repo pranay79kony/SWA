@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb801c1b803343428fc42fa058fe5733",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "s0e0c7e33184428b89b66e6b9e24a7f7",
+    "focusskin": "s0e0c7e33184428b89b66e6b9e24a7f7",
+    "hExpand": false,
+    "hexpand": false,
+    "id": "CopyButton0829d8a0b5e2b45",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "8b2c4d277221400d9e4aeb5321fbc094",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_997f5e414673403081ea0a75b6e5b437",
+    "onclick": "AS_Button_997f5e414673403081ea0a75b6e5b437",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "CopyHBox08eedb77f89fb4c",
+    "pf": "frmFlightStatusSubmit",
+    "render": true,
+    "skin": "sb801c1b803343428fc42fa058fe5733",
+    "text": "",
+    "wType": "Button",
+    "widgetAlignment": 5
+}

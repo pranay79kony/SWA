@@ -1,0 +1,95 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-200dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s19d13ab2e8b4990a59db76085966010",
+    "_top_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "allboxes": [],
+    "bottom": "0dp",
+    "canUpdateUI": true,
+    "children": [
+        "flexsecheader",
+        "flexline",
+        "flexsubsec",
+        "Label058e5f33ec69240",
+        "Copyflexline008209c62c1e04c",
+        "CopyLabel0435e1bd76d4f4a",
+        "Copyflexline06412041b003245",
+        "CopyLabel0413eb1d2729943"
+    ],
+    "clipBounds": true,
+    "clipbounds": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "enableScrolling": true,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "Flexcontslideout",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "04e235180165447199667d4fd1800c03",
+    "layoutType": 2,
+    "layouttype": 2,
+    "left": "-200dp",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "flexmain",
+    "percent": true,
+    "pf": "frmDashboard",
+    "render": true,
+    "skin": "s19d13ab2e8b4990a59db76085966010",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "top": "40dp",
+    "vizProps": {
+        "hide": false,
+        "lock": false
+    },
+    "wType": "FlexContainer",
+    "widgetAlignment": 1,
+    "widgetalignment": 1,
+    "width": "200dp",
+    "zIndex": 100,
+    "zindex": 100
+}

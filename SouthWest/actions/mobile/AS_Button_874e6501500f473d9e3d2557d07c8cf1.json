@@ -1,0 +1,14 @@
+{
+	"AS_Button_874e6501500f473d9e3d2557d07c8cf1": {
+		"id": "AS_Button_874e6501500f473d9e3d2557d07c8cf1",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_155cbd0d76d44a3fa067a23e0e60d46c",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmFlightStatusSubmit",
+				"formKUID": "ba4001f85d074558ad21e40959711ba8"
+			}
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"AS_Button_e695e3797aa14ec88961030ccd948bbb": {
+		"id": "AS_Button_e695e3797aa14ec88961030ccd948bbb",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_Dashboard_onClick_acf9a9e9ebbe4147ac6ac9ea1105efe5",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmSelectDeparture",
+				"formKUID": "6d0b80c93c6b4347a51d5cf7ba4f8c7a"
+			}
+		]
+	}
+}

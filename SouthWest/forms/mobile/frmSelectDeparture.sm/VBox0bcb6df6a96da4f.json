@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s82fbf3ea71f46b2bd1b7d714b64c0cb",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "HBox08560812b9ecf41"
+    ],
+    "containerWeight": 30,
+    "containerweight": 30,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "VBox0bcb6df6a96da4f",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "329179e6ca6e495aac7afd26a3801c8f",
+    "layoutType": 0,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "orientation": 2,
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "HBox022cb089783a045",
+    "percent": true,
+    "pf": "frmSelectDeparture",
+    "position": 3,
+    "render": true,
+    "skin": "s82fbf3ea71f46b2bd1b7d714b64c0cb",
+    "wType": "VBox",
+    "widgetAlignment": 4,
+    "widgetalignment": 4
+}

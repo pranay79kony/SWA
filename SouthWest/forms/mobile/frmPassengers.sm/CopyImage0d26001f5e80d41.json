@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_margin_": [
+        0,
+        2,
+        0,
+        2
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s349f4a6eb454a28a0d02af0ef373d3b",
+    "_src_": "dotelineone.png",
+    "base64": null,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmPassengers",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": false
+    },
+    "enabled": false,
+    "id": "CopyImage0d26001f5e80d41",
+    "imageScaleMode": 1,
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isVisible": true,
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "266a57391e064c9ba3e5de8b77faa3a7",
+    "margin": [
+        0,
+        2,
+        0,
+        2
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Image2",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "CopyVBox0073af4510edd46",
+    "pf": "frmPassengers",
+    "render": true,
+    "skin": "s349f4a6eb454a28a0d02af0ef373d3b",
+    "src": "dotelineone.png",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetAlignment": 5,
+    "widgetalignment": 5
+}

@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4aa820cff0643bda9257709f63e1f8d",
+    "_text_": "<b>First two Bags Fly Free<sup>(R)</sup>.</b> <label style=\"color:#104FAE\">Weight,size and excess limits apply.</label>All fares are rounded upto the nearest dollar.",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "RichTextDeclare",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "949dbafc8aac4e599750b29afedbcf05",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.RichText",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "HBox01eed69f7bfea42",
+    "pf": "frmSelectreturn",
+    "render": true,
+    "skin": "s4aa820cff0643bda9257709f63e1f8d",
+    "text": "<b>First two Bags Fly Free<sup>(R)</sup>.</b> <label style=\"color:#104FAE\">Weight,size and excess limits apply.</label>All fares are rounded upto the nearest dollar.",
+    "wType": "RichText",
+    "widgetAlignment": 5,
+    "widgetalignment": 5,
+    "wrapping": 2
+}

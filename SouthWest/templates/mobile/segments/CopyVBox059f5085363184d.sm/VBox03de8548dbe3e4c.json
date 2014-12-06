@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s6a2ce1abc4e4f2eb5dfa6d33d33ede9",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblDollarVal3",
+        "lblBusinessSelect"
+    ],
+    "containerId": true,
+    "containerWeight": 33,
+    "containerweight": 33,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "focusSkin": "s364b83d450f4098b375c6f735a13595",
+    "focusskin": "s364b83d450f4098b375c6f735a13595",
+    "id": "VBox03de8548dbe3e4c",
+    "info": null,
+    "isSegmentChild": true,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "ef1c56368cbd4bacaec365aea8362027",
+    "layoutType": 0,
+    "layouttype": 0,
+    "margin": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "orientation": 2,
+    "paddInPixel": [
+        0,
+        18.03,
+        0,
+        18.03
+    ],
+    "padding": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "CopyHBox002ba388409b34d",
+    "percent": true,
+    "pf": "CopyVBox059f5085363184d",
+    "position": 3,
+    "render": true,
+    "skin": "s6a2ce1abc4e4f2eb5dfa6d33d33ede9",
+    "wType": "VBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

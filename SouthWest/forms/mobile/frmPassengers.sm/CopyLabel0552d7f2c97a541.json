@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        3,
+        1,
+        1,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbb8749f6cda43bc8ff7d64baf671721",
+    "_text_": "Known Traveller Number",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 56,
+    "containerweight": 56,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopyLabel0552d7f2c97a541",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "8ecd0b49fef341e981930c48f6cf934a",
+    "margin": [
+        3,
+        1,
+        1,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "HBox0e3e5310d8f9448",
+    "pf": "frmPassengers",
+    "render": true,
+    "skin": "sbb8749f6cda43bc8ff7d64baf671721",
+    "text": "Known Traveller Number",
+    "toolTip": "",
+    "tooltip": "",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "wrapping": 2
+}

@@ -1,0 +1,19 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "104faeff",
+  "font_name": "",
+  "font_size": 140,
+  "font_style": "normal",
+  "font_weight": "bold",
+  "iphone": {
+    "font_name": "HelveticaNeue-Bold"
+  },
+  "isDefaultSkin": false,
+  "kuid": "s96f4167fe994e929d3774b3bb15ae32",
+  "wType": "Label"
+}

@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "scad8c62f55244c5a515356931f0d6c1",
+    "_text_": "",
+    "android": {},
+    "canUpdateUI": true,
+    "containerWeight": 20,
+    "containerweight": 20,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "sf294504f37a49309b559dae4059b058",
+    "focusskin": "sf294504f37a49309b559dae4059b058",
+    "hExpand": false,
+    "hexpand": false,
+    "id": "Button07057a375094b40",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "8d728de99160419d825f6828220765e3",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_2148aecc133d43d9b51d1aeb4a761ca4",
+    "onclick": "AS_Button_2148aecc133d43d9b51d1aeb4a761ca4",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "HBox06d11cd2af7444e",
+    "pf": "frmSelectDeparture",
+    "render": true,
+    "skin": "scad8c62f55244c5a515356931f0d6c1",
+    "text": "",
+    "wType": "Button",
+    "widgetAlignment": 5
+}

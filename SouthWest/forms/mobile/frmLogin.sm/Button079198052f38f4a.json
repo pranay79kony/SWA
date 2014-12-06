@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3b6da4aacdf45f7967e5b45285f62c6",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerWeight": 30,
+    "containerweight": 30,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "sc9279f25e6b40c5a248b19cf367aab5",
+    "focusskin": "sc9279f25e6b40c5a248b19cf367aab5",
+    "hExpand": false,
+    "hexpand": false,
+    "id": "Button079198052f38f4a",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "29bcf2b4b38f432db4ab24835f12a619",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "HBox0677452556fed4a",
+    "pf": "frmLogin",
+    "render": true,
+    "skin": "s3b6da4aacdf45f7967e5b45285f62c6",
+    "text": "",
+    "wType": "Button",
+    "widgetAlignment": 5
+}

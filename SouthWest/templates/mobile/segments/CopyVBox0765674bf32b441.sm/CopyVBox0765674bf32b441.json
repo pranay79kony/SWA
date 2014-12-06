@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblName",
+        "lblDay",
+        "HBox0d2c29916bae34e",
+        "CopyHBox0b1284f3f4cd640",
+        "CopyHBox073c3a18d071441",
+        "imgDots",
+        "CopyHBox0e67528420e6443",
+        "CopyHBox05e28fa0549ef4b",
+        "CopyHBox08404d76d14084d"
+    ],
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "CopyVBox0765674bf32b441",
+    "info": null,
+    "isGeneratedTemplate": true,
+    "isTemplate": true,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "aefb943543a94907b08120b4976810fc",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "orientation": 2,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "percent": true,
+    "pf": "CopyVBox0765674bf32b441",
+    "position": 3,
+    "render": true,
+    "wType": "VBox",
+    "widgetAlignment": 5
+}

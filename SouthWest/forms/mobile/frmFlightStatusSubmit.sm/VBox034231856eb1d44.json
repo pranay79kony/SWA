@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s82fbf3ea71f46b2bd1b7d714b64c0cb",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "HBox0ba1aaa64ed0f4e",
+        "CopyLine0bd84c95eff004b",
+        "CopyHBox0d919b1e4c8c54e",
+        "CopyLine0efa961740bea4c",
+        "CopyHBox07534052049594c",
+        "CopyLine0901a2a7bd29441",
+        "CopyHBox08eedb77f89fb4c",
+        "CopyLine091aeb366f3af44",
+        "CopyHBox0964a5300d62f43"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "VBox034231856eb1d44",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "e6f51021c8df4ee0b6ade771e3739d56",
+    "layoutType": 0,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "orientation": 2,
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "HBox00f4acb1f527846",
+    "percent": true,
+    "pf": "frmFlightStatusSubmit",
+    "position": 3,
+    "render": true,
+    "skin": "s82fbf3ea71f46b2bd1b7d714b64c0cb",
+    "wType": "VBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_margin_": [
+        0,
+        1,
+        0,
+        2
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s349f4a6eb454a28a0d02af0ef373d3b",
+    "_src_": "dotelineone.png",
+    "base64": null,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmSelectDeparture",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": false
+    },
+    "enabled": false,
+    "id": "CopyImage004491b20e4ba49",
+    "imageScaleMode": 1,
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isVisible": true,
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "c77b078cd5cf4e799fcb79ae8f266e5e",
+    "margin": [
+        0,
+        1,
+        0,
+        2
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Image2",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "VBox05f29a9bacf1e43",
+    "pf": "frmSelectDeparture",
+    "render": true,
+    "skin": "s349f4a6eb454a28a0d02af0ef373d3b",
+    "src": "dotelineone.png",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetAlignment": 5,
+    "widgetalignment": 5
+}

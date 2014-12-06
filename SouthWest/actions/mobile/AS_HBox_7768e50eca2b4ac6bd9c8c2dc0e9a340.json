@@ -1,0 +1,14 @@
+{
+	"AS_HBox_7768e50eca2b4ac6bd9c8c2dc0e9a340": {
+		"id": "AS_HBox_7768e50eca2b4ac6bd9c8c2dc0e9a340",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_5bc5ce1958b84525aaee57c4838f46a9",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDashboard",
+				"formKUID": "fdf14834245b4542af5551fc22ed5d36"
+			}
+		]
+	}
+}

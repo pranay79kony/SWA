@@ -1,0 +1,365 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "CopyImage0ca0015632cd04c": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrown.png"
+            },
+            "lblAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AM"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblFlights": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2 Flights"
+            },
+            "lblPM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PM"
+            },
+            "lblSEA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblTimeAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            },
+            "lblTimePM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            }
+        },
+        {
+            "CopyImage0ca0015632cd04c": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrown.png"
+            },
+            "lblAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AM"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblFlights": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3 Flights"
+            },
+            "lblPM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PM"
+            },
+            "lblSEA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblTimeAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            },
+            "lblTimePM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            }
+        },
+        {
+            "CopyImage0ca0015632cd04c": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrown.png"
+            },
+            "lblAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AM"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblFlights": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4 Flights"
+            },
+            "lblPM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PM"
+            },
+            "lblSEA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblTimeAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            },
+            "lblTimePM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_rowTemplateId": "CopyVBox05de0e400ddf241",
+    "alternateRowSkin": "s1a6e5e8315446aa9c1d872e82d24f52",
+    "alternaterowskin": "s1a6e5e8315446aa9c1d872e82d24f52",
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmResults",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 3,
+    "data": [
+        {
+            "CopyImage0ca0015632cd04c": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrown.png"
+            },
+            "lblAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AM"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblFlights": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2 Flights"
+            },
+            "lblPM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PM"
+            },
+            "lblSEA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblTimeAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            },
+            "lblTimePM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            }
+        },
+        {
+            "CopyImage0ca0015632cd04c": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrown.png"
+            },
+            "lblAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AM"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblFlights": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3 Flights"
+            },
+            "lblPM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PM"
+            },
+            "lblSEA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblTimeAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            },
+            "lblTimePM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            }
+        },
+        {
+            "CopyImage0ca0015632cd04c": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrown.png"
+            },
+            "lblAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AM"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblFlights": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4 Flights"
+            },
+            "lblPM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PM"
+            },
+            "lblSEA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblTimeAM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            },
+            "lblTimePM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55 "
+            }
+        }
+    ],
+    "disabledSkins": {},
+    "enabled": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedTemplate": "CopyVBox05de0e400ddf241",
+    "generatedtemplate": "533686749a3c42baaefbfd60f2bf4e2a",
+    "groupCells": false,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegData",
+    "indicator": "none",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "09f2d40f97c14c7d86d45967b40c0364",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needPageIndicator": true,
+    "needpageindicator": true,
+    "onRowClick": "AS_Segment_82d35e13e5f84a7ab141a925851918a9",
+    "onrowclick": "AS_Segment_82d35e13e5f84a7ab141a925851918a9",
+    "orientation": 2,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pageOffDotImage": "pageOffDot.png",
+    "pageOnDotImage": "pageOnDot.png",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "VBox09c9137354ac741",
+    "pf": "frmResults",
+    "render": true,
+    "retainSelection": false,
+    "retainselection": false,
+    "rowFocusSkin": "s57ee552031b41c0b6a6e5243895c401",
+    "rowSkin": "s2f9f0c9a1ef4492b9a5c0e978459617",
+    "rowTemplateId": "533686749a3c42baaefbfd60f2bf4e2a",
+    "rowcounter": 2,
+    "rowfocusskin": "s57ee552031b41c0b6a6e5243895c401",
+    "rowskin": "s2f9f0c9a1ef4492b9a5c0e978459617",
+    "rowtemplate": "CopyVBox05de0e400ddf241",
+    "screenLevelWidget": false,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderSkin": "s73db21252874da4bbc37460e4ab9952",
+    "sectionheaderskin": "s73db21252874da4bbc37460e4ab9952",
+    "selectedIndex": null,
+    "selectedIndices": null,
+    "selectedItems": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionBehavior": "default",
+    "selectionbehavior": "default",
+    "separatorColor": "f8f9fd64",
+    "separatorRequired": true,
+    "separatorThickness": 1,
+    "separatorcolor": "f8f9fd64",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showScrollbars": false,
+    "showscrollbars": false,
+    "viewType": "tableview",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetAlignment": 5,
+    "widgetDataMap": {
+        "CopyHBox036025e8e209c4b": "CopyHBox036025e8e209c4b",
+        "CopyHBox0cdf6f5628c4243": "CopyHBox0cdf6f5628c4243",
+        "CopyImage0ca0015632cd04c": "CopyImage0ca0015632cd04c",
+        "HBox0201196a8ae9846": "HBox0201196a8ae9846",
+        "HBox07530b694b9ba49": "HBox07530b694b9ba49",
+        "VBox044b62dc6ba274b": "VBox044b62dc6ba274b",
+        "VBox06bf0776bf86742": "VBox06bf0776bf86742",
+        "lblAM": "lblAM",
+        "lblAUS": "lblAUS",
+        "lblFlights": "lblFlights",
+        "lblPM": "lblPM",
+        "lblSEA": "lblSEA",
+        "lblTimeAM": "lblTimeAM",
+        "lblTimePM": "lblTimePM"
+    },
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyHBox036025e8e209c4b": "CopyHBox036025e8e209c4b",
+        "CopyHBox0cdf6f5628c4243": "CopyHBox0cdf6f5628c4243",
+        "CopyImage0ca0015632cd04c": "CopyImage0ca0015632cd04c",
+        "HBox0201196a8ae9846": "HBox0201196a8ae9846",
+        "HBox07530b694b9ba49": "HBox07530b694b9ba49",
+        "VBox044b62dc6ba274b": "VBox044b62dc6ba274b",
+        "VBox06bf0776bf86742": "VBox06bf0776bf86742",
+        "lblAM": "lblAM",
+        "lblAUS": "lblAUS",
+        "lblFlights": "lblFlights",
+        "lblPM": "lblPM",
+        "lblSEA": "lblSEA",
+        "lblTimeAM": "lblTimeAM",
+        "lblTimePM": "lblTimePM"
+    }
+}

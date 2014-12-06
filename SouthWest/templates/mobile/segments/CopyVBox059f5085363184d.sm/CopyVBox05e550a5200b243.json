@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s82fbf3ea71f46b2bd1b7d714b64c0cb",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblTravelTime",
+        "lblTravelTimeVal"
+    ],
+    "containerId": true,
+    "containerWeight": 31,
+    "containerweight": 31,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "CopyVBox05e550a5200b243",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "38f7268bf64c454cbb63ef604ae002a4",
+    "layoutType": 0,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "orientation": 2,
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "CopyHBox093707f9dc4054b",
+    "percent": true,
+    "pf": "CopyVBox059f5085363184d",
+    "position": 3,
+    "render": true,
+    "skin": "s82fbf3ea71f46b2bd1b7d714b64c0cb",
+    "wType": "VBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

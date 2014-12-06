@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "sb2eba06ad7e40c0876e434407110449",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "CopyLabel0293c769e8a4441",
+        "CopyTextField062fd5cec032947"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "CopyHBox07534052049594c",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "d7640782ff95461a8ab180ad4071f087",
+    "layoutType": 0,
+    "layouttype": 0,
+    "margin": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "orientation": 1,
+    "padding": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "VBox034231856eb1d44",
+    "percent": true,
+    "pf": "frmFlightStatusSubmit",
+    "position": 3,
+    "render": true,
+    "skin": "sb2eba06ad7e40c0876e434407110449",
+    "wType": "HBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

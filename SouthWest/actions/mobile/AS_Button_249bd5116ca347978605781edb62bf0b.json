@@ -1,0 +1,14 @@
+{
+	"AS_Button_249bd5116ca347978605781edb62bf0b": {
+		"id": "AS_Button_249bd5116ca347978605781edb62bf0b",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_7c84e68506da496193854a402bbf7ba7",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmResults",
+				"formKUID": "a663a2db02384ec9a8fc496ac56b2ecc"
+			}
+		]
+	}
+}

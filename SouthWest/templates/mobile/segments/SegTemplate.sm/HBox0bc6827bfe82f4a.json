@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        2,
+        0,
+        2
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s5eda85f43124f3998c508ac5d12cfcc",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblLetter"
+    ],
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "HBox0bc6827bfe82f4a",
+    "info": null,
+    "isTemplate": true,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "6d60f03bd128472fbc42e040d788bf4e",
+    "layoutType": 0,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "orientation": 1,
+    "padding": [
+        2,
+        2,
+        0,
+        2
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "SegTemplate",
+    "percent": true,
+    "pf": "SegTemplate",
+    "position": 3,
+    "render": true,
+    "skin": "s5eda85f43124f3998c508ac5d12cfcc",
+    "wType": "HBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

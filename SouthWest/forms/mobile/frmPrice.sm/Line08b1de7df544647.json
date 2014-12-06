@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLine",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49f3831b8b246c8b0de27525eac157a",
+    "_thickness_": 1,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerWeightLocked": false,
+    "containerweight": 100,
+    "enabled": false,
+    "id": "Line08b1de7df544647",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "2f51195b53f74ef6a4cb1a563d82e45c",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Line",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "VBox0b80b3daad2cd4e",
+    "pf": "frmPrice",
+    "render": true,
+    "skin": "s49f3831b8b246c8b0de27525eac157a",
+    "thickness": 1,
+    "wType": "Line",
+    "widgetAlignment": 5
+}

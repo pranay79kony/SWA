@@ -1,0 +1,503 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "LblGateB": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "B14"
+            },
+            "imgDots": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotslines.png"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblArrive": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVE"
+            },
+            "lblArriveBag": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "BAG"
+            },
+            "lblArriveGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "GATE"
+            },
+            "lblArriveStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STATUS"
+            },
+            "lblArriveTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1:45"
+            },
+            "lblArrivedTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Arrived 5pm"
+            },
+            "lblBag2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblDay": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Saturday December 6,2014"
+            },
+            "lblDepart": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPART"
+            },
+            "lblDeparted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Departed 11:00am"
+            },
+            "lblGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "GATE"
+            },
+            "lblGate10": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "C11"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SOUTHWEST FLIGHT #1234"
+            },
+            "lblSea": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STATUS"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55"
+            }
+        },
+        {
+            "LblGateB": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "C19"
+            },
+            "imgDots": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotslines.png"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblArrive": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVE"
+            },
+            "lblArriveBag": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "BAG"
+            },
+            "lblArriveGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "GATE"
+            },
+            "lblArriveStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STATUS"
+            },
+            "lblArriveTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2:50"
+            },
+            "lblArrivedTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Arrived 6pm"
+            },
+            "lblBag2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12"
+            },
+            "lblDay": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Saturday December 6,2014"
+            },
+            "lblDepart": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPART"
+            },
+            "lblDeparted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Departed 10:00pm"
+            },
+            "lblGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "GATE"
+            },
+            "lblGate10": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SOUTHWEST FLIGHT #4312"
+            },
+            "lblSea": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STATUS"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_rowTemplateId": "VBox00cd629edf6104d",
+    "alternateRowSkin": "s130c36dcc2b4f19a03b2f876e2cec94",
+    "alternaterowskin": "s130c36dcc2b4f19a03b2f876e2cec94",
+    "bounces": false,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmFlightInfo",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 2,
+    "data": [
+        {
+            "LblGateB": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "B14"
+            },
+            "imgDots": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotslines.png"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblArrive": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVE"
+            },
+            "lblArriveBag": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "BAG"
+            },
+            "lblArriveGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "GATE"
+            },
+            "lblArriveStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STATUS"
+            },
+            "lblArriveTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1:45"
+            },
+            "lblArrivedTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Arrived 5pm"
+            },
+            "lblBag2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblDay": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Saturday December 6,2014"
+            },
+            "lblDepart": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPART"
+            },
+            "lblDeparted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Departed 11:00am"
+            },
+            "lblGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "GATE"
+            },
+            "lblGate10": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "C11"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SOUTHWEST FLIGHT #1234"
+            },
+            "lblSea": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STATUS"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55"
+            }
+        },
+        {
+            "LblGateB": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "C19"
+            },
+            "imgDots": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotslines.png"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblArrive": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVE"
+            },
+            "lblArriveBag": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "BAG"
+            },
+            "lblArriveGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "GATE"
+            },
+            "lblArriveStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STATUS"
+            },
+            "lblArriveTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2:50"
+            },
+            "lblArrivedTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Arrived 6pm"
+            },
+            "lblBag2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12"
+            },
+            "lblDay": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Saturday December 6,2014"
+            },
+            "lblDepart": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPART"
+            },
+            "lblDeparted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Departed 10:00pm"
+            },
+            "lblGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "GATE"
+            },
+            "lblGate10": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SOUTHWEST FLIGHT #4312"
+            },
+            "lblSea": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SEA"
+            },
+            "lblStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STATUS"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11:55"
+            }
+        }
+    ],
+    "disabledSkins": {},
+    "enabled": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedTemplate": "VBox00cd629edf6104d",
+    "generatedtemplate": "cbe3289d8bd048d39d552e2ac8aed574",
+    "groupCells": false,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegData",
+    "indicator": "none",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "2f11cae687034845b67bc440b10678ca",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needPageIndicator": true,
+    "needpageindicator": true,
+    "orientation": 2,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "pageOffDotImage": "pageOffDot.png",
+    "pageOnDotImage": "pageOnDot.png",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "VBox09c9137354ac741",
+    "pf": "frmFlightInfo",
+    "render": true,
+    "retainSelection": false,
+    "retainselection": false,
+    "rowFocusSkin": "sbbb1cdf469e4b59945d2b2781a9a00c",
+    "rowSkin": "sea332d336254a7c8affb5ae0abb7c86",
+    "rowTemplateId": "cbe3289d8bd048d39d552e2ac8aed574",
+    "rowcounter": 1,
+    "rowfocusskin": "sbbb1cdf469e4b59945d2b2781a9a00c",
+    "rowskin": "sea332d336254a7c8affb5ae0abb7c86",
+    "rowtemplate": "VBox00cd629edf6104d",
+    "screenLevelWidget": false,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderSkin": "s73db21252874da4bbc37460e4ab9952",
+    "sectionheaderskin": "s73db21252874da4bbc37460e4ab9952",
+    "selectedIndex": null,
+    "selectedIndices": null,
+    "selectedItems": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionBehavior": "default",
+    "selectionbehavior": "default",
+    "separatorColor": "f7f7f700",
+    "separatorRequired": true,
+    "separatorThickness": 1,
+    "separatorcolor": "f7f7f700",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showProgressIndicator": false,
+    "showScrollbars": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewType": "tableview",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetAlignment": 5,
+    "widgetDataMap": {
+        "CopyHBox05e28fa0549ef4b": "CopyHBox05e28fa0549ef4b",
+        "CopyHBox073c3a18d071441": "CopyHBox073c3a18d071441",
+        "CopyHBox08404d76d14084d": "CopyHBox08404d76d14084d",
+        "CopyHBox0b1284f3f4cd640": "CopyHBox0b1284f3f4cd640",
+        "CopyHBox0e67528420e6443": "CopyHBox0e67528420e6443",
+        "HBox0d2c29916bae34e": "HBox0d2c29916bae34e",
+        "LblGateB": "LblGateB",
+        "Line0d2afc165dc544f": "Line0d2afc165dc544f",
+        "imgDots": "imgDots",
+        "lblAUS": "lblAUS",
+        "lblArrive": "lblArrive",
+        "lblArriveBag": "lblArriveBag",
+        "lblArriveGate": "lblArriveGate",
+        "lblArriveStatus": "lblArriveStatus",
+        "lblArriveTime": "lblArriveTime",
+        "lblArrivedTime": "lblArrivedTime",
+        "lblBag2": "lblBag2",
+        "lblDay": "lblDay",
+        "lblDepart": "lblDepart",
+        "lblDeparted": "lblDeparted",
+        "lblGate": "lblGate",
+        "lblGate10": "lblGate10",
+        "lblName": "lblName",
+        "lblSea": "lblSea",
+        "lblStatus": "lblStatus",
+        "lblTime": "lblTime"
+    },
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyHBox05e28fa0549ef4b": "CopyHBox05e28fa0549ef4b",
+        "CopyHBox073c3a18d071441": "CopyHBox073c3a18d071441",
+        "CopyHBox08404d76d14084d": "CopyHBox08404d76d14084d",
+        "CopyHBox0b1284f3f4cd640": "CopyHBox0b1284f3f4cd640",
+        "CopyHBox0e67528420e6443": "CopyHBox0e67528420e6443",
+        "HBox0d2c29916bae34e": "HBox0d2c29916bae34e",
+        "LblGateB": "LblGateB",
+        "Line0d2afc165dc544f": "Line0d2afc165dc544f",
+        "imgDots": "imgDots",
+        "lblAUS": "lblAUS",
+        "lblArrive": "lblArrive",
+        "lblArriveBag": "lblArriveBag",
+        "lblArriveGate": "lblArriveGate",
+        "lblArriveStatus": "lblArriveStatus",
+        "lblArriveTime": "lblArriveTime",
+        "lblArrivedTime": "lblArrivedTime",
+        "lblBag2": "lblBag2",
+        "lblDay": "lblDay",
+        "lblDepart": "lblDepart",
+        "lblDeparted": "lblDeparted",
+        "lblGate": "lblGate",
+        "lblGate10": "lblGate10",
+        "lblName": "lblName",
+        "lblSea": "lblSea",
+        "lblStatus": "lblStatus",
+        "lblTime": "lblTime"
+    }
+}

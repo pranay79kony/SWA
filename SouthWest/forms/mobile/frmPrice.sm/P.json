@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s39ef80a1ce74cac82c99e8d542477a9",
+    "_text_": "Price",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 53,
+    "containerweight": 53,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "enabled": false,
+    "hExpand": false,
+    "hexpand": false,
+    "id": "P",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "7eba330d4c064a7a9478876cee31ac57",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "CopyHBox0df6bc7e6f2624b",
+    "pf": "frmPrice",
+    "render": true,
+    "skin": "s39ef80a1ce74cac82c99e8d542477a9",
+    "text": "Price",
+    "toolTip": "",
+    "tooltip": "",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "widgetalignment": 5,
+    "wrapping": 2
+}

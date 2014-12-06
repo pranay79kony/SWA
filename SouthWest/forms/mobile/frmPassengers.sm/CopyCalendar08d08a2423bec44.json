@@ -1,0 +1,137 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calendar.png",
+    "__id": "frmPassengers_CopyCalendar08d08a2423bec44",
+    "__input": "CopyCalendar08d08a2423bec44",
+    "_data_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbcd35e1b97b48f1af4a488b987d3398",
+    "advview": "default",
+    "calendarIcon": "calendar.png",
+    "calendaricon": "calendar.png",
+    "canUpdateUI": true,
+    "containerWeight": 44,
+    "containerweight": 44,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "data": null,
+    "date": "06/12/2014",
+    "dateComponents": [
+        6,
+        12,
+        2014,
+        0,
+        0,
+        0
+    ],
+    "dateEditable": true,
+    "dateFormat": "dd/MM/yyyy",
+    "datecomponents": [
+        6,
+        12,
+        2014,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 6,
+    "dayTextAlignmentInCell": "CONTENT _ALIGN_CENTER",
+    "displayedMonths": [
+        12,
+        2014
+    ],
+    "enabled": false,
+    "entereddate": [
+        6,
+        12,
+        2014,
+        0,
+        0,
+        0
+    ],
+    "format": "dd/MM/yyyy",
+    "formattedDate": "06/12/2014",
+    "formatteddate": "06/12/2014",
+    "hour": 0,
+    "id": "CopyCalendar08d08a2423bec44",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "d66a2783f265442cb58721522985a34c",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "minutes": 0,
+    "month": 12,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noOfMonths": 1,
+    "noofmonths": 1,
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "padding": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "pagedate": "/2014",
+    "parent": "HBox026f4127c910946",
+    "pf": "frmPassengers",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "render": true,
+    "seconds": 0,
+    "selectdate": "//2014",
+    "skin": "sbcd35e1b97b48f1af4a488b987d3398",
+    "startDay": 0,
+    "viewConfig": {
+        "gridconfig": ""
+    },
+    "viewType": "default",
+    "viewconfig": {
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetAlignment": 5,
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2014
+}

@@ -1,0 +1,19 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "000000ff",
+  "font_name": "",
+  "font_size": 90,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "iphone": {
+    "font_name": "HelveticaNeue"
+  },
+  "isDefaultSkin": false,
+  "kuid": "s4aa820cff0643bda9257709f63e1f8d",
+  "wType": "RichText"
+}

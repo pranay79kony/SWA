@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_margin_": [
+        3,
+        2,
+        3,
+        5
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s18e335416c04a688f1f177c9ffaeab1",
+    "_text_": "1st and 2nd Checked Bags Fly Free<sup>(R)</sup>.<label style=\"color:#104FAE\">Weight and size limits apply.</label>Please read <label style=\"color:#104FAE\">fare rules </label>associated with his purchase.",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "RichText01a8c17ae4fe647",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "b237ea953c0e41d3bde57ce583c20ea0",
+    "margin": [
+        3,
+        2,
+        3,
+        5
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "VBox0d209c2f7007942",
+    "pf": "frmPrice",
+    "render": true,
+    "skin": "s18e335416c04a688f1f177c9ffaeab1",
+    "text": "1st and 2nd Checked Bags Fly Free<sup>(R)</sup>.<label style=\"color:#104FAE\">Weight and size limits apply.</label>Please read <label style=\"color:#104FAE\">fare rules </label>associated with his purchase.",
+    "wType": "RichText",
+    "widgetAlignment": 5,
+    "widgetalignment": 5,
+    "wrapping": 2
+}

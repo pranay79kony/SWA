@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        5,
+        0,
+        5
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s08adacf61f64fe783e005debf8e2d85",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "sd59db37415b474482ea161a81dd8400",
+    "focusskin": "sd59db37415b474482ea161a81dd8400",
+    "hExpand": false,
+    "hexpand": false,
+    "id": "Button0c60d756380174b",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "cbae95e51d4e4521b32f0879b2f4b1fb",
+    "margin": [
+        0,
+        5,
+        0,
+        5
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_a0940977238b495eb50e7247a8620315",
+    "onclick": "AS_Button_a0940977238b495eb50e7247a8620315",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "CopyVBox0073af4510edd46",
+    "pf": "frmPassengers",
+    "render": true,
+    "skin": "s08adacf61f64fe783e005debf8e2d85",
+    "text": "",
+    "wType": "Button",
+    "widgetAlignment": 5
+}

@@ -1,0 +1,603 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "CopyImage018d54f284ec945": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "CopylblAUS0fdb50dee44e04c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1 ADULT"
+            },
+            "CopylblArrive04ef18a8af91440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PASSENGERS"
+            },
+            "CopylblArriveGate00c17308d5b3f4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TOTAL"
+            },
+            "CopylblArriveStatus07e1fac7f043a49": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FARE TYPE"
+            },
+            "CopylblArriveTime0d8c8237a6cab4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ANYTIME"
+            },
+            "CopylblGate07033d39a47a744": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$453.3"
+            },
+            "Image06d7b58c02cac45": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "Image08e4dfb121dab41": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "directionarrow.png"
+            },
+            "Label0b484382ce0e84a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbl1045": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2069"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12:O5 PM"
+            },
+            "lblArrive": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTS"
+            },
+            "lblArriveGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TRAVEL TIME"
+            },
+            "lblArriveStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVES"
+            },
+            "lblArriveTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3:50 PM"
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12/12/2014"
+            },
+            "lblDepart": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PHOENIX, AZ"
+            },
+            "lblDeparting": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTING"
+            },
+            "lblFlight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FLIGHT"
+            },
+            "lblGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wifi Available"
+            },
+            "lblGate10": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3H 45M"
+            },
+            "lblPhx": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblSea": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PHX"
+            },
+            "lblStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUSTIN, TX"
+            }
+        },
+        {
+            "CopyImage018d54f284ec945": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "CopylblAUS0fdb50dee44e04c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1 ADULT"
+            },
+            "CopylblArrive04ef18a8af91440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PASSENGERS"
+            },
+            "CopylblArriveGate00c17308d5b3f4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TOTAL"
+            },
+            "CopylblArriveStatus07e1fac7f043a49": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FARE TYPE"
+            },
+            "CopylblArriveTime0d8c8237a6cab4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ANYTIME"
+            },
+            "CopylblGate07033d39a47a744": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$453.3"
+            },
+            "Image06d7b58c02cac45": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "Image08e4dfb121dab41": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "directionarrow.png"
+            },
+            "Label0b484382ce0e84a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbl1045": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5042"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12:O5 PM"
+            },
+            "lblArrive": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTS"
+            },
+            "lblArriveGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TRAVEL TIME"
+            },
+            "lblArriveStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVES"
+            },
+            "lblArriveTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3:50 PM"
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "13/12/2014"
+            },
+            "lblDepart": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PHOENIX"
+            },
+            "lblDeparting": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RETURNING"
+            },
+            "lblFlight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FLIGHT"
+            },
+            "lblGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wifi Available"
+            },
+            "lblGate10": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3H 45M"
+            },
+            "lblPhx": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PHX"
+            },
+            "lblSea": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUSTIN, TX"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_rowTemplateId": "VBox03a19032a8ba749",
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmPrice",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 2,
+    "data": [
+        {
+            "CopyImage018d54f284ec945": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "CopylblAUS0fdb50dee44e04c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1 ADULT"
+            },
+            "CopylblArrive04ef18a8af91440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PASSENGERS"
+            },
+            "CopylblArriveGate00c17308d5b3f4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TOTAL"
+            },
+            "CopylblArriveStatus07e1fac7f043a49": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FARE TYPE"
+            },
+            "CopylblArriveTime0d8c8237a6cab4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ANYTIME"
+            },
+            "CopylblGate07033d39a47a744": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$453.3"
+            },
+            "Image06d7b58c02cac45": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "Image08e4dfb121dab41": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "directionarrow.png"
+            },
+            "Label0b484382ce0e84a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbl1045": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2069"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12:O5 PM"
+            },
+            "lblArrive": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTS"
+            },
+            "lblArriveGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TRAVEL TIME"
+            },
+            "lblArriveStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVES"
+            },
+            "lblArriveTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3:50 PM"
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12/12/2014"
+            },
+            "lblDepart": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PHOENIX, AZ"
+            },
+            "lblDeparting": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTING"
+            },
+            "lblFlight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FLIGHT"
+            },
+            "lblGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wifi Available"
+            },
+            "lblGate10": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3H 45M"
+            },
+            "lblPhx": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblSea": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PHX"
+            },
+            "lblStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUSTIN, TX"
+            }
+        },
+        {
+            "CopyImage018d54f284ec945": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "CopylblAUS0fdb50dee44e04c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1 ADULT"
+            },
+            "CopylblArrive04ef18a8af91440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PASSENGERS"
+            },
+            "CopylblArriveGate00c17308d5b3f4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TOTAL"
+            },
+            "CopylblArriveStatus07e1fac7f043a49": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FARE TYPE"
+            },
+            "CopylblArriveTime0d8c8237a6cab4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ANYTIME"
+            },
+            "CopylblGate07033d39a47a744": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$453.3"
+            },
+            "Image06d7b58c02cac45": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "Image08e4dfb121dab41": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "directionarrow.png"
+            },
+            "Label0b484382ce0e84a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbl1045": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5042"
+            },
+            "lblAUS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12:O5 PM"
+            },
+            "lblArrive": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTS"
+            },
+            "lblArriveGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TRAVEL TIME"
+            },
+            "lblArriveStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVES"
+            },
+            "lblArriveTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3:50 PM"
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "13/12/2014"
+            },
+            "lblDepart": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PHOENIX"
+            },
+            "lblDeparting": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RETURNING"
+            },
+            "lblFlight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FLIGHT"
+            },
+            "lblGate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wifi Available"
+            },
+            "lblGate10": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3H 45M"
+            },
+            "lblPhx": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PHX"
+            },
+            "lblSea": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUS"
+            },
+            "lblStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUSTIN, TX"
+            }
+        }
+    ],
+    "disabledSkins": {
+        "rowFocusSkin": "sbcf8703a01f4a00b6151e1a7911257d"
+    },
+    "enabled": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedTemplate": "VBox03a19032a8ba749",
+    "generatedtemplate": "dcca3d797b7648cd879e3dc4b938751b",
+    "groupCells": false,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0ec3b0ab0d05c47",
+    "indicator": "none",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "984cb5d0120c4d2eb3ba99646811f216",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needPageIndicator": true,
+    "needpageindicator": true,
+    "orientation": 2,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pageOffDotImage": "pageOffDot.png",
+    "pageOnDotImage": "pageOnDot.png",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "VBox0224f2f642d1e4c",
+    "pf": "frmPrice",
+    "render": true,
+    "retainSelection": false,
+    "retainselection": false,
+    "rowSkin": "s77ed8150ebe494293d3ffe543dccc9c",
+    "rowTemplateId": "dcca3d797b7648cd879e3dc4b938751b",
+    "rowcounter": 1,
+    "rowskin": "s77ed8150ebe494293d3ffe543dccc9c",
+    "rowtemplate": "VBox03a19032a8ba749",
+    "screenLevelWidget": false,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderSkin": "s73db21252874da4bbc37460e4ab9952",
+    "sectionheaderskin": "s73db21252874da4bbc37460e4ab9952",
+    "selectedIndex": null,
+    "selectedIndices": null,
+    "selectedItems": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionBehavior": "default",
+    "selectionbehavior": "default",
+    "separatorColor": "64646400",
+    "separatorRequired": false,
+    "separatorThickness": 1,
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showScrollbars": false,
+    "showscrollbars": false,
+    "viewType": "tableview",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetAlignment": 5,
+    "widgetDataMap": {
+        "CopyHBox0181e85ea8f4b41": "CopyHBox0181e85ea8f4b41",
+        "CopyHBox05e28fa0549ef4b": "CopyHBox05e28fa0549ef4b",
+        "CopyHBox0b1284f3f4cd640": "CopyHBox0b1284f3f4cd640",
+        "CopyHBox0b79dc0df2ff746": "CopyHBox0b79dc0df2ff746",
+        "CopyHBox0e67528420e6443": "CopyHBox0e67528420e6443",
+        "CopyImage018d54f284ec945": "CopyImage018d54f284ec945",
+        "CopylblAUS0fdb50dee44e04c": "CopylblAUS0fdb50dee44e04c",
+        "CopylblArrive04ef18a8af91440": "CopylblArrive04ef18a8af91440",
+        "CopylblArriveGate00c17308d5b3f4c": "CopylblArriveGate00c17308d5b3f4c",
+        "CopylblArriveStatus07e1fac7f043a49": "CopylblArriveStatus07e1fac7f043a49",
+        "CopylblArriveTime0d8c8237a6cab4f": "CopylblArriveTime0d8c8237a6cab4f",
+        "CopylblGate07033d39a47a744": "CopylblGate07033d39a47a744",
+        "HBox03d53060dce004b": "HBox03d53060dce004b",
+        "HBox0d2c29916bae34e": "HBox0d2c29916bae34e",
+        "Image06d7b58c02cac45": "Image06d7b58c02cac45",
+        "Image08e4dfb121dab41": "Image08e4dfb121dab41",
+        "Label0b484382ce0e84a": "Label0b484382ce0e84a",
+        "Line03568f2d791d442": "Line03568f2d791d442",
+        "lbl1045": "lbl1045",
+        "lblAUS": "lblAUS",
+        "lblArrive": "lblArrive",
+        "lblArriveGate": "lblArriveGate",
+        "lblArriveStatus": "lblArriveStatus",
+        "lblArriveTime": "lblArriveTime",
+        "lblDate": "lblDate",
+        "lblDepart": "lblDepart",
+        "lblDeparting": "lblDeparting",
+        "lblFlight": "lblFlight",
+        "lblGate": "lblGate",
+        "lblGate10": "lblGate10",
+        "lblPhx": "lblPhx",
+        "lblSea": "lblSea",
+        "lblStatus": "lblStatus"
+    },
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyHBox0181e85ea8f4b41": "CopyHBox0181e85ea8f4b41",
+        "CopyHBox05e28fa0549ef4b": "CopyHBox05e28fa0549ef4b",
+        "CopyHBox0b1284f3f4cd640": "CopyHBox0b1284f3f4cd640",
+        "CopyHBox0b79dc0df2ff746": "CopyHBox0b79dc0df2ff746",
+        "CopyHBox0e67528420e6443": "CopyHBox0e67528420e6443",
+        "CopyImage018d54f284ec945": "CopyImage018d54f284ec945",
+        "CopylblAUS0fdb50dee44e04c": "CopylblAUS0fdb50dee44e04c",
+        "CopylblArrive04ef18a8af91440": "CopylblArrive04ef18a8af91440",
+        "CopylblArriveGate00c17308d5b3f4c": "CopylblArriveGate00c17308d5b3f4c",
+        "CopylblArriveStatus07e1fac7f043a49": "CopylblArriveStatus07e1fac7f043a49",
+        "CopylblArriveTime0d8c8237a6cab4f": "CopylblArriveTime0d8c8237a6cab4f",
+        "CopylblGate07033d39a47a744": "CopylblGate07033d39a47a744",
+        "HBox03d53060dce004b": "HBox03d53060dce004b",
+        "HBox0d2c29916bae34e": "HBox0d2c29916bae34e",
+        "Image06d7b58c02cac45": "Image06d7b58c02cac45",
+        "Image08e4dfb121dab41": "Image08e4dfb121dab41",
+        "Label0b484382ce0e84a": "Label0b484382ce0e84a",
+        "Line03568f2d791d442": "Line03568f2d791d442",
+        "lbl1045": "lbl1045",
+        "lblAUS": "lblAUS",
+        "lblArrive": "lblArrive",
+        "lblArriveGate": "lblArriveGate",
+        "lblArriveStatus": "lblArriveStatus",
+        "lblArriveTime": "lblArriveTime",
+        "lblDate": "lblDate",
+        "lblDepart": "lblDepart",
+        "lblDeparting": "lblDeparting",
+        "lblFlight": "lblFlight",
+        "lblGate": "lblGate",
+        "lblGate10": "lblGate10",
+        "lblPhx": "lblPhx",
+        "lblSea": "lblSea",
+        "lblStatus": "lblStatus"
+    }
+}

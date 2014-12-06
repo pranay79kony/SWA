@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLine",
+    "DNDConfig": null,
+    "_margin_": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s29c4a7182ae4f0891ef8b9979d4ce39",
+    "_thickness_": 1,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerWeightLocked": false,
+    "containerweight": 100,
+    "enabled": false,
+    "id": "CopyLine0bd84c95eff004b",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "1ef69136a0dd4a13bfffd7e915684a49",
+    "margin": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "name": "kony.ui.Line",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "VBox034231856eb1d44",
+    "pf": "frmFlightStatusSubmit",
+    "render": true,
+    "skin": "s29c4a7182ae4f0891ef8b9979d4ce39",
+    "thickness": 1,
+    "wType": "Line",
+    "widgetAlignment": 5
+}

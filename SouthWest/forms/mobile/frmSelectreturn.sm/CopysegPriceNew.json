@@ -1,0 +1,520 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "CopylblDollarVal07a4db29e2bfa41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Unavailable"
+            },
+            "CopylblGetaWay0df1c5ddd4fe943": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wanna Get Away "
+            },
+            "imgLine": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "imgSouth": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "southwestlogosmall.png"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "#1050/2060"
+            },
+            "lblAnytime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Anytime"
+            },
+            "lblArrives": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVES"
+            },
+            "lblArrivesName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3:50 PM"
+            },
+            "lblBusinessSelect": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Business       Select"
+            },
+            "lblDeparts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTS"
+            },
+            "lblDepartsName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:50 AM"
+            },
+            "lblDollar": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dollars"
+            },
+            "lblDollarVal2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$534"
+            },
+            "lblDollarVal3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$562"
+            },
+            "lblPoints": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Points"
+            },
+            "lblStops": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STOPS"
+            },
+            "lblStopsName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1/PHX"
+            },
+            "lblTravelTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TRAVEL TIME"
+            },
+            "lblTravelTimeVal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "7H 45M"
+            }
+        },
+        {
+            "CopylblDollarVal07a4db29e2bfa41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$283"
+            },
+            "CopylblGetaWay0df1c5ddd4fe943": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wanna Get Away "
+            },
+            "imgLine": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "imgSouth": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "southwestlogosmall.png"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "#1050/2060"
+            },
+            "lblAnytime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Anytime"
+            },
+            "lblArrives": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVES"
+            },
+            "lblArrivesName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3:50 PM"
+            },
+            "lblBusinessSelect": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Business        Select"
+            },
+            "lblDeparts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTS"
+            },
+            "lblDepartsName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:50 AM"
+            },
+            "lblDollar": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dollars"
+            },
+            "lblDollarVal2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$534"
+            },
+            "lblDollarVal3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$562"
+            },
+            "lblPoints": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Points"
+            },
+            "lblStops": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STOPS"
+            },
+            "lblStopsName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1/PHX"
+            },
+            "lblTravelTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TRAVEL TIME"
+            },
+            "lblTravelTimeVal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "7H 45M"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_margin_": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_rowTemplateId": "CopyVBox0de52340a917842",
+    "bounces": false,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmSelectreturn",
+        "ispercent": true,
+        "platform": "android",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 2,
+    "data": [
+        {
+            "CopylblDollarVal07a4db29e2bfa41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Unavailable"
+            },
+            "CopylblGetaWay0df1c5ddd4fe943": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wanna Get Away "
+            },
+            "imgLine": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "imgSouth": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "southwestlogosmall.png"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "#1050/2060"
+            },
+            "lblAnytime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Anytime"
+            },
+            "lblArrives": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVES"
+            },
+            "lblArrivesName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3:50 PM"
+            },
+            "lblBusinessSelect": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Business       Select"
+            },
+            "lblDeparts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTS"
+            },
+            "lblDepartsName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:50 AM"
+            },
+            "lblDollar": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dollars"
+            },
+            "lblDollarVal2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$534"
+            },
+            "lblDollarVal3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$562"
+            },
+            "lblPoints": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Points"
+            },
+            "lblStops": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STOPS"
+            },
+            "lblStopsName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1/PHX"
+            },
+            "lblTravelTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TRAVEL TIME"
+            },
+            "lblTravelTimeVal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "7H 45M"
+            }
+        },
+        {
+            "CopylblDollarVal07a4db29e2bfa41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$283"
+            },
+            "CopylblGetaWay0df1c5ddd4fe943": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wanna Get Away "
+            },
+            "imgLine": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dotelineone.png"
+            },
+            "imgSouth": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "southwestlogosmall.png"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "#1050/2060"
+            },
+            "lblAnytime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Anytime"
+            },
+            "lblArrives": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ARRIVES"
+            },
+            "lblArrivesName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3:50 PM"
+            },
+            "lblBusinessSelect": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Business        Select"
+            },
+            "lblDeparts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DEPARTS"
+            },
+            "lblDepartsName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:50 AM"
+            },
+            "lblDollar": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dollars"
+            },
+            "lblDollarVal2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$534"
+            },
+            "lblDollarVal3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$562"
+            },
+            "lblPoints": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Points"
+            },
+            "lblStops": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "STOPS"
+            },
+            "lblStopsName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1/PHX"
+            },
+            "lblTravelTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TRAVEL TIME"
+            },
+            "lblTravelTimeVal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "7H 45M"
+            }
+        }
+    ],
+    "disabledSkins": {
+        "widgetSkin": "s0e365d5c46143d59f02fba4f4ea8ed3"
+    },
+    "enabled": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedTemplate": "CopyVBox0de52340a917842",
+    "generatedtemplate": "89c266296cba4a4ca176319ae143d8ba",
+    "groupCells": false,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "CopysegPriceNew",
+    "indicator": "none",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "761ef58f0f494bdb9a03c187a72d8cb1",
+    "margin": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "marginInPixel": false,
+    "margininpixel": false,
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needPageIndicator": true,
+    "needpageindicator": true,
+    "orientation": 2,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "pageOffDotImage": "pageOffDot.png",
+    "pageOnDotImage": "pageOnDot.png",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "vdistance": 1
+    },
+    "parent": "VBox05f29a9bacf1e43",
+    "pf": "frmSelectreturn",
+    "render": true,
+    "retainSelection": false,
+    "retainselection": false,
+    "rowFocusSkin": "s1d03f5fc0bb4894aab6be83bc2a6b1f",
+    "rowSkin": "s2878183d9dc45cf9c609a3bc748e978",
+    "rowTemplateId": "89c266296cba4a4ca176319ae143d8ba",
+    "rowcounter": 1,
+    "rowfocusskin": "s1d03f5fc0bb4894aab6be83bc2a6b1f",
+    "rowskin": "s2878183d9dc45cf9c609a3bc748e978",
+    "rowtemplate": "CopyVBox0de52340a917842",
+    "screenLevelWidget": false,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderSkin": "s73db21252874da4bbc37460e4ab9952",
+    "sectionheaderskin": "s73db21252874da4bbc37460e4ab9952",
+    "selectedIndex": null,
+    "selectedIndices": null,
+    "selectedItems": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionBehavior": "default",
+    "selectionbehavior": "default",
+    "separatorColor": "64646464",
+    "separatorRequired": false,
+    "separatorThickness": 0,
+    "separatorcolor": "64646464",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showProgressIndicator": false,
+    "showScrollbars": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 602,
+        "widthRatio": 0
+    },
+    "viewType": "tableview",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetAlignment": 5,
+    "widgetDataMap": {
+        "CopyHBox002ba388409b34d": "CopyHBox002ba388409b34d",
+        "CopyHBox093707f9dc4054b": "CopyHBox093707f9dc4054b",
+        "CopyVBox05e550a5200b243": "CopyVBox05e550a5200b243",
+        "CopyVBox08c4e92f511ea4e": "CopyVBox08c4e92f511ea4e",
+        "CopyVBox0edd87f38b95e44": "CopyVBox0edd87f38b95e44",
+        "CopylblDollarVal07a4db29e2bfa41": "CopylblDollarVal07a4db29e2bfa41",
+        "CopylblGetaWay0df1c5ddd4fe943": "CopylblGetaWay0df1c5ddd4fe943",
+        "HBox0685dc1ab20d140": "HBox0685dc1ab20d140",
+        "HBox0f8e40cf05bbb41": "HBox0f8e40cf05bbb41",
+        "VBox03de8548dbe3e4c": "VBox03de8548dbe3e4c",
+        "VBox06c0a6d82ea8946": "VBox06c0a6d82ea8946",
+        "VBox074f94d2839124d": "VBox074f94d2839124d",
+        "VBox09990cb464b7648": "VBox09990cb464b7648",
+        "VBox0acea09ae8cd949": "VBox0acea09ae8cd949",
+        "imgLine": "imgLine",
+        "imgSouth": "imgSouth",
+        "lblAmount": "lblAmount",
+        "lblAnytime": "lblAnytime",
+        "lblArrives": "lblArrives",
+        "lblArrivesName": "lblArrivesName",
+        "lblBusinessSelect": "lblBusinessSelect",
+        "lblDeparts": "lblDeparts",
+        "lblDepartsName": "lblDepartsName",
+        "lblDollar": "lblDollar",
+        "lblDollarVal2": "lblDollarVal2",
+        "lblDollarVal3": "lblDollarVal3",
+        "lblPoints": "lblPoints",
+        "lblStops": "lblStops",
+        "lblStopsName": "lblStopsName",
+        "lblTravelTime": "lblTravelTime",
+        "lblTravelTimeVal": "lblTravelTimeVal"
+    },
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyHBox002ba388409b34d": "CopyHBox002ba388409b34d",
+        "CopyHBox093707f9dc4054b": "CopyHBox093707f9dc4054b",
+        "CopyVBox05e550a5200b243": "CopyVBox05e550a5200b243",
+        "CopyVBox08c4e92f511ea4e": "CopyVBox08c4e92f511ea4e",
+        "CopyVBox0edd87f38b95e44": "CopyVBox0edd87f38b95e44",
+        "CopylblDollarVal07a4db29e2bfa41": "CopylblDollarVal07a4db29e2bfa41",
+        "CopylblGetaWay0df1c5ddd4fe943": "CopylblGetaWay0df1c5ddd4fe943",
+        "HBox0685dc1ab20d140": "HBox0685dc1ab20d140",
+        "HBox0f8e40cf05bbb41": "HBox0f8e40cf05bbb41",
+        "VBox03de8548dbe3e4c": "VBox03de8548dbe3e4c",
+        "VBox06c0a6d82ea8946": "VBox06c0a6d82ea8946",
+        "VBox074f94d2839124d": "VBox074f94d2839124d",
+        "VBox09990cb464b7648": "VBox09990cb464b7648",
+        "VBox0acea09ae8cd949": "VBox0acea09ae8cd949",
+        "imgLine": "imgLine",
+        "imgSouth": "imgSouth",
+        "lblAmount": "lblAmount",
+        "lblAnytime": "lblAnytime",
+        "lblArrives": "lblArrives",
+        "lblArrivesName": "lblArrivesName",
+        "lblBusinessSelect": "lblBusinessSelect",
+        "lblDeparts": "lblDeparts",
+        "lblDepartsName": "lblDepartsName",
+        "lblDollar": "lblDollar",
+        "lblDollarVal2": "lblDollarVal2",
+        "lblDollarVal3": "lblDollarVal3",
+        "lblPoints": "lblPoints",
+        "lblStops": "lblStops",
+        "lblStopsName": "lblStopsName",
+        "lblTravelTime": "lblTravelTime",
+        "lblTravelTimeVal": "lblTravelTimeVal"
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"AS_FlexContainer_302de22491f441c9aa6357979a2fd71b": {
+		"id": "AS_FlexContainer_302de22491f441c9aa6357979a2fd71b",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchEnd_1ed0156a017a464fb507d4c9cd746d99",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmFlightStatusSubmit",
+				"formKUID": "ba4001f85d074558ad21e40959711ba8"
+			}
+		]
+	}
+}

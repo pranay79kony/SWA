@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        5,
+        1,
+        5
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s99e2b25c8084893bc08b40fc85cefd9",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "VBox0bcb6df6a96da4f",
+        "VBox07fc4bf16e3d64b",
+        "VBox04cc7ee5cd0634b"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contextMenu": null,
+    "contextmenu": null,
+    "enabled": false,
+    "id": "HBox022cb089783a045",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "c011009eaf6b4e9fbc0a2664a903a1f8",
+    "layoutType": 0,
+    "layouttype": 0,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Box",
+    "orientation": 1,
+    "padding": [
+        1,
+        5,
+        1,
+        5
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "frmSelectDeparture",
+    "percent": true,
+    "pf": "frmSelectDeparture",
+    "position": 3,
+    "render": true,
+    "skin": "s99e2b25c8084893bc08b40fc85cefd9",
+    "wType": "HBox",
+    "widgetAlignment": 1,
+    "widgetalignment": 1
+}

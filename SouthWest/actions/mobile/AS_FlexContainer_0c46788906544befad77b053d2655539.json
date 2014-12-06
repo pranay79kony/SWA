@@ -1,0 +1,14 @@
+{
+	"AS_FlexContainer_0c46788906544befad77b053d2655539": {
+		"id": "AS_FlexContainer_0c46788906544befad77b053d2655539",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchEnd_4acac12661874c57a62402f4d700e2a4",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmSelectDeparture",
+				"formKUID": "6d0b80c93c6b4347a51d5cf7ba4f8c7a"
+			}
+		]
+	}
+}

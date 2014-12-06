@@ -1,0 +1,12 @@
+{
+  "background_image": "mainbg.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "iphone": {},
+  "isDefaultSkin": false,
+  "kuid": "s5ea490e97c741aea446d5e143bf55db",
+  "wType": "FlexContainer"
+}
